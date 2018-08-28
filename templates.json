@@ -58,7 +58,7 @@
 			"source": {
 			    "type": "Git",
 			    "git": {
-				"uri": "https://github.com/openshift-evangelists/pseudo-vps-quickstart"
+				"uri": "https://github.com/retergis/pseudo-vps-quickstart"
 			    }
 			},
 			"strategy": {
